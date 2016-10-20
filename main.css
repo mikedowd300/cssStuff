@@ -1,0 +1,18 @@
+body {
+  background-color: green;
+}
+
+.test-div {
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.test-section {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.test-article {
+  border: 1px solid black;
+  color: pink;
+}
